@@ -81,6 +81,8 @@ GEM
       minitest (>= 3.0)
     hitimes (1.2.2)
     i18n (0.7.0)
+    intercom-rails (0.2.28)
+      activesupport (> 3.0)
     jbuilder (2.2.3)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
@@ -207,6 +209,7 @@ DEPENDENCIES
   byebug (= 3.4.0)
   coffee-rails (= 4.1.0)
   guard-minitest (= 2.3.1)
+  intercom-rails
   jbuilder (= 2.2.3)
   jquery-rails (= 4.0.3)
   mini_backtrace (= 0.1.3)
