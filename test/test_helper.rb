@@ -30,3 +30,4 @@ class ActiveSupport::TestCase
       defined?(post_via_redirect)
     end
 end
+
